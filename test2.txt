@@ -1,1 +1,2 @@
 This is test2 file.
+This is new line in test2 file.
